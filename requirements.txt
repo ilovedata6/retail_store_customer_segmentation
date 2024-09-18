@@ -10,4 +10,7 @@ typer
 ipykernel
 pandas
 openpyxl
+matplotlib
+seaborn
+scikit-learn
 -e .
